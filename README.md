@@ -4,7 +4,7 @@ Simulated trading account tracker.
 
 Rules
 - Invest it all in Tbills, since the rate is 4%+
-- Use leverage to make trade and must make 1 trade per day
+- Use leverage to make trades and must make *atleast* 1 trade per day
 - Use any instruments or asset classes to source and express ideas
 - Never risk more \$500000 on any single trade
 - Always have a STOP LOSS on every position
