@@ -1,0 +1,162 @@
+﻿This document was exported from the paperMoney® platform which provides a simulated trading environment. All data contained herein is for educational and entertainment purposes only. TD Ameritrade its subsidiaries and/or affiliates are not responsible for the accuracy of any of these exported data.
+
+Account Statement for D-68263085 (margin) since 8/10/25 through 8/11/25
+
+Cash Balance
+DATE,TIME,TYPE,REF #,DESCRIPTION,Misc Fees,Commissions & Fees,AMOUNT,BALANCE
+8/10/25,01:00:00,BAL,,Cash balance at the start of business day 10.08 CST,,,,"-44,198,937.85"
+8/10/25,22:17:09,TRD,5219879401,SOLD -60 /SIU25:XCEC @38.105,,-135.00,"-131,100.00","-44,330,172.85"
+8/11/25,01:00:00,BAL,,Cash balance at the start of business day 11.08 CST,,,,"-44,330,172.85"
+8/11/25,11:40:41,TRD,5220289269,"SOLD -250,000 GDXJ @71.88",-303.69,,"17,970,000.00","-26,360,476.54"
+8/11/25,12:37:32,TRD,5220356367,BOT +100 /NQU25:XCME @23773.50,,-225.00,,"-26,360,701.54"
+8/11/25,12:41:01,TRD,5220356396,SOLD -100 /NQU25:XCME @23749.50,,-225.00,"-48,000.00","-26,408,926.54"
+8/11/25,13:40:32,TRD,5220411237,SOLD -200 /NQU25:XCME @23697.25,,-450.00,,"-26,409,376.54"
+8/11/25,14:11:25,TRD,5220435093,"SOLD -100,000 LRCX @102.06",-172.48,,"10,206,000.00","-16,203,549.02"
+8/11/25,14:26:56,TRD,5220449333,"SOLD -100,000 FAST @47.80",-80.78,,"4,780,000.00","-11,423,629.80"
+8/11/25,15:56:34,TRD,5220534733,BOT +200 /NQU25:XCME @23597.50,,-450.00,"399,000.00","-11,025,079.80"
+,,,,TOTAL,($556.95),"($1,485.00)","$33,175,900.00","($11,025,079.80)"
+
+Futures Statements
+Trade Date,Exec Date,Exec Time,Type,Ref #,Description,Misc Fees,Commissions & Fees,Amount,Balance
+
+Forex Statements
+,Date,Time,Type,Ref #,Description,Commissions & Fees,Amount,Amount(USD),Balance
+,8/10/25,01:00:00,BAL,--,Cash balance at the start of the business day 10.08 CST.,--,--,--,"$10,000.00"
+,8/11/25,01:00:00,BAL,--,Cash balance at the start of the business day 11.08 CST.,--,--,--,"$10,000.00"
+
+Crypto (Schwab Digital Assets) Statements
+Trade Date,Exec Date,Exec Time,Type,Ref #,Description,Commissions & Fees,Amount,Balance
+
+ 
+"Total Cash ($11,025,079.80)"
+
+
+Account Order History filtered by PYPL
+Notes,,Time Placed,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,PRICE,,TIF,Status
+
+Account Trade History filtered by PYPL
+,Exec Time,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,Price,Net Price,Order Type
+
+Equities
+Symbol,Description,Qty,Trade Price,Mark,P/L Day,P/L Open,P/L %,Mark Value
+AAPL,APPLE INC,+50000,216.68,226.60,"($137,500.00)","$496,000.00",+4.58%,"$11,330,000.00"
+LRCX,LAM RESH CORP,-100000,102.06,102.33,"($27,000.00)","($27,000.00)",-0.26%,"($10,233,000.00)"
+FAST,FASTENAL CO,-100000,47.80,47.84,"($4,000.00)","($4,000.00)",-0.08%,"($4,784,000.00)"
+FICO,FAIR ISAAC CORP,-2500,1348.28,1311.26,"$24,050.00","$92,550.00",+2.75%,"($3,278,150.00)"
+CELH,CELSIUS HLDGS INC,+25000,50.83,54.00,"$51,250.00","$79,250.00",+6.24%,"$1,350,000.00"
+NFLX,NETFLIX INC,+12000,1162.42,1219.00,"$88,320.00","$678,960.00",+4.87%,"$14,628,000.00"
+SGOV,ISHR 0-3 MN TRESBND,+10000000,100.40,100.49,"$100,000.00","$900,000.00",+0.09%,"$1,004,900,000.00"
+,OVERALL TOTALS,,,,"$95,120.00","$2,215,760.00",+0.21%,"$1,013,912,850.00"
+
+Profits and Losses
+Symbol,Description,P/L Open,P/L %,P/L Day,P/L YTD,P/L Diff,Margin Req,Mark Value
+SGOV,ISHR 0-3 MN TRESBND,"$900,000.00",+0.09%,"$100,000.00","$900,000.00","$100,000.00","$502,450,000.00","$1,004,900,000.00"
+NFLX,NETFLIX INC,"$678,960.00",+4.87%,"$88,320.00","$202,200.00","$88,320.00","$7,314,000.00","$14,628,000.00"
+CELH,CELSIUS HLDGS INC,"$79,250.00",+6.24%,"$51,250.00","$79,250.00","$51,250.00","$675,000.00","$1,350,000.00"
+FICO,FAIR ISAAC CORP,"$92,550.00",+2.75%,"$24,050.00","$92,550.00","$24,050.00","$1,639,075.00","($3,278,150.00)"
+/BTCQ25,"Bitcoin Futures, Aug-25 (prev. /BTCQ5)",$0.00,0.00%,$0.00,"$1,521,250.00",$0.00,$0.00,$0.00
+/ESH25,"E-mini S&P 500 Index Futures,Mar-2025,ETH (prev. /ESH5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+/ESM25,"E-mini S&P 500 Index Futures,Jun-2025,ETH (prev. /ESM5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+/ESU25,"E-mini S&P 500 Index Futures,Sep-2025,ETH (prev. /ESU5)",$0.00,0.00%,$0.00,"$387,500.00",$0.00,$0.00,$0.00
+/ETHQ25,"Ether Futures,Aug-2025,ETH (prev. /ETHQ5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+/GCJ25,"Gold Futures,Apr-2025, ETH (prev. /GCJ5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+/HOH25,"Heating Oil Futures,Mar-2025,ETH (prev. /HOH5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+/NQH25,"E-mini Nasdaq 100 Index Futures,Mar-2025,ETH (prev. /NQH5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+/NQM25,"E-mini Nasdaq 100 Index Futures,Jun-2025,ETH (prev. /NQM5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+/NQU25,"E-mini Nasdaq 100 Index Futures,Sep-2025,ETH (prev. /NQU5)",$0.00,0.00%,$0.00,"$350,775.00","$351,000.00",$0.00,$0.00
+/SIU25,"Silver Futures,Sep-2025, ETH (prev. /SIU5)",$0.00,0.00%,$0.00,"$48,000.00",$0.00,$0.00,$0.00
+/TNM25,"Ultra 10-Year U.S. Treasury Note Futures, Jun-25 (prev. /TNM5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+/ZBU25,"30-Year U.S. Treasury Bond Futures,Sep-2025,ETH (prev. /ZBU5)",$0.00,0.00%,$0.00,"($43,750.00)",$0.00,$0.00,$0.00
+/ZNM25,"10-Year U.S. Treasury Note Futures,Jun-2025,ETH (prev. /ZNM5)",$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+ADBE,ADOBE INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+AMD,ADVANCED MICRO DEVIC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+AVGO,BROADCOM INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+BALL,BALL CORP,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+BK,BANK NEW YORK MELLON,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+BLDR,BUILDERS FIRSTSOURCE,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+BWA,BORGWARNER INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+CDNS,CADENCE DESIGN SYS I,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+CMS,CMS ENERGY CORP,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+CNP,CENTERPOINT ENERGY I,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+CONL,GRANITESHARES COIN DAILY ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+DHI,D R HORTON INC,$0.00,0.00%,$0.00,$0.00,$0.00,"$6,577,200.00",$0.00
+EBAY,EBAY INC,$0.00,0.00%,$0.00,$0.00,$0.00,"$14,106,000.00",$0.00
+EEM,ISHARES MSCI EMERGING MARKETS ETF IV,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+EFX,EQUIFAX INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+EIX,EDISON INTL,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+ETN,EATON CORP PLC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+FCX,FREEPORT-MCMORAN INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+FXI,ISHARES CHINA LARGE CAP ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+GD,GENERAL DYNAMICS COR,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+GLD,SPDR GOLD SHARES ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+GOOGL,ALPHABET INC A,$0.00,0.00%,$0.00,"($349,000.00)",$0.00,$0.00,$0.00
+HAL,HALLIBURTON CO,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+HD,HOME DEPOT INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+HUM,HUMANA INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+IBIT,ISHARES BITCOIN ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+IP,INTERNTNL PAPER CO,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LHX,L3HARRIS TECHNOLOGIE,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LKQ,LKQ CORP,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LLY,ELI LILLY AND CO,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LULU,LULULEMON ATHLETICA,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LUV,SOUTHWEST AIRLS CO,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LYB,LYONDELLBASELL INDUS A,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+LYV,LIVE NATION ENTMT IN,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MCHP,MICROCHIP TECHNOLOGY,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MDLZ,MONDELEZ INTL INC A,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MKTX,MARKETAXESS HLDGS IN,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MNST,MONSTER BEVERAGE COR,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MPC,MARATHON PETE CORP,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MRK,MERCK & CO. INC.,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MRNA,MODERNA INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+MTCH,MATCH GROUP INC NEW,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+NDX,NASDAQ 100 INDEX,$0.00,0.00%,$0.00,"$377,000.00",$0.00,$0.00,$0.00
+NEM,NEWMONT CORP,$0.00,0.00%,$0.00,"$31,000.00",$0.00,$0.00,$0.00
+NKE,NIKE INC B,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+NOC,NORTHROP GRUMMAN COR,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+NUE,NUCOR CORP,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+NVDA,NVIDIA CORP,$0.00,0.00%,$0.00,"$281,400.00",$0.00,$0.00,$0.00
+OLLI,OLLIES BARGAIN OUTLE,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+PCAR,PACCAR INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+PEP,PEPSICO INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+PHM,PULTEGROUP INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+PKG,PACKAGING CORP AMER,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+PLD,PROLOGIS INC REIT,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+PLTR,PALANTIR TECHNOLOGIE A,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+PYPL,PAYPAL HLDGS INC,$0.00,0.00%,$0.00,"$28,000.00",$0.00,$0.00,$0.00
+ROP,ROPER TECHNOLOGIES I,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+SLV,ISHARES SILVER TRUST ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+SMCI,SUPER MICRO COMPUTER,$0.00,0.00%,$0.00,"($480,000.00)",$0.00,$0.00,$0.00
+SPX,S & P 500 INDEX,$0.00,0.00%,$0.00,"($51,500.00)",$0.00,$0.00,$0.00
+SPY,SPDR S&P 500 ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+TMO,THERMO FISHER SCIENT,$0.00,0.00%,$0.00,"($280,200.00)",$0.00,$0.00,$0.00
+TSLA,TESLA INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+TXT,TEXTRON INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+ULTA,ULTA BEAUTY INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+WAB,WABTEC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+XLB,SPDR FUND MATERIALS SELECT SECTR ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+XLE,ENERGY SELECT SECTOR SPDR ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+XLV,SELECT SECTOR HEALTH CARE SPDR ETF,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00,$0.00
+FAST,FASTENAL CO,"($4,000.00)",-0.08%,"($4,000.00)","($4,000.00)","($4,000.00)","$2,392,000.00","($4,784,000.00)"
+LRCX,LAM RESH CORP,"($27,000.00)",-0.26%,"($27,000.00)","($27,000.00)","($27,000.00)","$5,116,500.00","($10,233,000.00)"
+GDXJ,VanEck Junior Gold Miners ETF,$0.00,0.00%,"($87,500.00)","($230,000.00)","($87,500.00)",$0.00,$0.00
+AAPL,APPLE INC,"$496,000.00",+4.58%,"($137,500.00)","$83,000.00","($137,500.00)","$5,665,000.00","$11,330,000.00"
+,OVERALL TOTALS,"$2,215,760.00",+0.21%,"$7,620.00","$2,916,475.00","$358,620.00","$545,934,775.00","$1,013,912,850.00"
+
+Forex Account Summary
+Forex Cash,"$10,000.00"
+Forex Unrealized P/L,$0.00
+Forex Floating P/L,$0.00
+Forex Equity,"$10,000.00"
+Forex Margin,$0.00
+Forex Buying Power,"$10,000.00"
+Forex Risk Level,0.00%
+Forex Commissions YTD,$0.00
+
+Account Summary
+Net Liquidating Value,"$1,002,887,770.20"
+Stock Buying Power,"$942,263,590.40"
+Option Buying Power,"$471,131,795.20"
+Equity Commissions & Fees YTD,"$5,754.80"
+Futures Commissions & Fees YTD,"$22,950.00"
+Total Commissions & Fees YTD,"$28,704.80"
